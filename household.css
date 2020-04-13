@@ -1,0 +1,45 @@
+#f1 h1{
+	font-family:serif;
+	color:#157DEC;
+	text-align:center;
+	text-shadow: 3px 2px #C2DFFF;
+	font-size:40px;
+}
+#f1 p{
+	font-size:20px;
+	text-align:center;
+}
+#f2 h1{
+	border-bottom: 3px solid #157DEC;
+	
+}
+
+#f2,#f3{
+
+	margin:60px;
+	padding-left:50px;
+	padding-right:100px;
+}
+
+p,ul{
+	padding-top:30px;
+	font-size:20px;
+	
+}
+#f3 h2{
+	text-shadow: 3px 2px #C2DFFF;
+	
+}
+#f2 img{
+	height:300px;
+	width:350px;
+}
+
+a{
+	color:#157DEC;
+	text-decoration: none;
+	padding-top:50px;
+	padding-left:50px;
+	
+
+}

@@ -1,0 +1,158 @@
+*{
+  padding:0;
+  margin: 0;
+}
+.header{
+	width:960px;
+	height:auto;
+	margin:0 auto;
+}
+
+.banner-cover img{
+	height: 500px;
+	width: 700px;
+	background-position:center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+	
+}
+.banner-text{
+width:500%;
+position:relative;
+margin-top:-35%;
+}
+
+.banner-text h1{
+text-align:left;
+color:#ffffff;
+font-size:10vh;
+
+}
+.residential-logo img{
+	width:320px;
+	height:auto;
+	margin:0px 10px;
+	margin-bottom:50px;
+	box-shadow:0ox 10px 12px 0px #000;
+	
+	
+	
+}
+.about-text{
+	width: 520px;
+	height: auto;
+	padding:0px 20px;
+}
+
+.about-text h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:1px solid #fff;
+	margin-bottom:30px;
+}
+
+.about-text p{
+font-size:16px;
+color:black;
+line-height:22px;
+
+
+}
+
+.row{
+overflow: auto;	
+}
+.col{
+	float:left;
+}
+.residential-section{
+	
+	background:#DCE7E5;
+	padding:40px 0px;
+	margin-top:280px;
+	
+}
+
+.about1-text{
+	width: 520px;
+	height: auto;
+	padding:0px 20px;
+}
+
+.about1-text h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:1px solid #fff;
+	margin-bottom:30px;
+}
+
+.about1-text p{
+font-size:17px;
+color:black;
+line-height:22px;
+
+
+}
+
+.homeowner-logo img{
+	width:350px;
+	height:auto;
+	margin:0px 10px;
+	margin-bottom:50px;
+	box-shadow:0x 10px 12px 0px #000;
+	
+}
+
+.homeowner-section{
+	background:#DCE7E5;
+	padding:40px 0px;
+	margin-top:50px;
+	
+}
+
+.property-logo img{
+	width:320px;
+	height:auto;
+	margin:0px 10px;
+	margin-bottom:50px;
+	box-shadow:0x 10px 12px 0px #000;
+	
+	
+	
+}
+
+.about2-text{
+	width: 520px;
+	height: auto;
+	padding:0px 20px;
+}
+
+.about2-text h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:1px solid #fff;
+	margin-bottom:30px;
+}
+
+.about2-text p{
+font-size:17px;
+color:black;
+line-height:22px;
+
+
+}
+
+.property-section{
+	background:#DCE7E5;
+	padding:40px 0px;
+	margin-top:50px;
+	
+}
+
+
+
+

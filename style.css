@@ -1,0 +1,119 @@
+body{
+	margin:0;
+	padding:0;
+	
+}
+
+.logo{
+	
+	width:5%;
+	float:left;
+	padding-left: 10px; 
+}
+
+.logo img{
+	width:85px;
+	height:60px;
+}
+
+.menu{
+	text-align:center;
+	background-color: #64A90C;
+}
+
+.menu ul {
+	display:inline-flex;
+	list-style:none;
+	color:black;
+	
+}
+.menu ul li {
+	width:120px;
+	margin:10px;
+	padding:10px;
+	
+}
+
+.menu ul li a{
+	text-decoration:none;
+	font-size:22px;
+	font-weight:bold;
+	color:black;
+}
+
+
+.active3,.menu ul li:hover{
+	background:green;
+	border-radius:3px;
+	
+}
+	
+.manu .fa{
+	margin-right:10px;
+	}
+
+.sub-menu-1{
+	display:none;
+	
+	
+}
+.menu ul li:hover .sub-menu-1{
+	display:block;
+	position:absolute;
+	background:green;
+	margin-top:15px;
+	margin-left:-15px;
+}
+.menu ul li:hover .sub-menu-1 ul{
+	display:block;
+	margin:10px;
+}
+.menu ul li:hover .sub-menu-1 ul li{
+	width:150px;
+	padding:10px;
+	border-bottom:1px dotted #fff;
+	background:transparent;
+	border-radius:0;
+	text-align:left;
+}
+.menu ul li:hover .sub-menu-1 ul li:last-child{
+	border-bottom:none;
+}
+
+header .h{
+	display: inline;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+
+.logo2{
+	width: 100%;
+	float: left;
+}
+
+.logo2 img{
+	width:85%;
+	height: 650px;
+	margin-left: 120px;
+}
+.one{
+	
+	width:32%;
+	float:left;
+	overflow:hidden;
+	padding-left: 500px;
+}
+
+.two{
+	width:32%;
+	float:left; 
+	overflow:hidden;
+	padding-left: 500px;
+}
+
+footer{
+	width: 40%;
+	overflow: hidden;
+	float: right;
+	padding-left: : 50px;
+}

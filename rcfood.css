@@ -1,0 +1,46 @@
+#f1 h1{
+	font-family:serif;
+	color:#FFA62F;
+	text-align:center;
+	text-shadow: 3px 2px #B1FB17;
+	font-size:40px;
+}
+#f1 p{
+	font-size:20px;
+	text-align:center;
+}
+#f2 h1{
+	border-bottom: 3px solid #FFA62F;
+	
+}
+#f3 h1{
+	border-bottom: 3px solid #FFA62F;
+	
+}
+#f4 h1{
+	border-bottom: 3px solid #FFA62F;
+	
+}
+
+
+#f2,#f3,#f4{
+
+	margin:80px;
+	padding-top:50px;
+	padding-left:50px;
+	padding-right:100px;
+}
+
+p{
+	padding-top:30px;
+	font-size:20px;
+	
+}
+a{
+	color:#FFA62F;
+	text-decoration: none;
+	padding-top:50px;
+	padding-left:50px;
+	
+
+}

@@ -1,0 +1,99 @@
+*{
+  padding:0;
+  margin: 0;
+}
+.header{
+	height:auto;
+	margin:0 auto;
+}
+
+
+.about-text{
+	width: 520px;
+	height: auto;
+	padding:0px 20px;
+}
+
+.about-text h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:1px solid #fff;
+	margin-bottom:30px;
+}
+
+.about-text p{
+font-size:17px;
+color:black;
+line-height:22px;
+
+
+}
+.row{
+overflow: auto;	
+}
+.col{
+	float:left;
+}
+
+
+
+.Homeowner-section{
+	
+	padding:40px 0px;
+	margin-top:50px;
+	
+}
+
+.homeowner-logo img{
+	width:500px;
+	height:auto;
+	margin:0px 10px;
+	margin-bottom:50px;
+	box-shadow:0x 10px 12px 0px #000;
+	
+	
+	
+}
+
+.about1-text{
+	width: 520px;
+	height: auto;
+	padding:0px 20px;
+}
+
+.about1-text h2{
+	font-size:25px;
+	font-weight:bold;
+	text-transform:uppercase;
+	border-bottom:1px solid #fff;
+	margin-bottom:30px;
+}
+
+.about1-text p{
+font-size:17px;
+color:black;
+line-height:22px;
+
+
+}
+
+
+
+.pickup-section{
+	
+	padding:40px 0px;
+	margin-top:50px;
+	
+}
+
+.pick-logo img{
+	width:550px;
+	height:auto;
+	margin:0px 10px;
+	margin-bottom:50px;
+	box-shadow:0x 10px 12px 0px #000;
+	
+	
+	
+}

@@ -1,0 +1,45 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: url('home.jpg') no-repeat;
+	background-size: cover;
+	font-family: Arial;
+	background-attachment: fixed;
+	
+}
+
+#abc img{
+	width:100%;
+	height:100%;
+}
+
+#a123{
+	background: rgb(0,100,0);
+	text-align: center;
+}
+#a123 ul{
+	display: inline-flex;
+	list-style: none;
+	color: #fff;
+
+}
+
+#a123 ul li{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+
+}
+
+#a123 ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.cd #a123 ul li:hover{
+	background: #2bab0d;
+	border-radius: 3px;
+}

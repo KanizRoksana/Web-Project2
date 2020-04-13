@@ -1,0 +1,17 @@
+#f1 h1{
+	font-family:serif;
+	color:#800000;
+	text-align:center;
+	text-shadow: 2px 2px #E77471;
+	font-size:40px;
+}
+body{
+	margin-top:10px;
+	margin-left:200px;
+	margin-right:200px;
+}
+p{
+	font-size:20px;
+    text-align:left;
+}
+

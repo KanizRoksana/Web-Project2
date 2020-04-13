@@ -1,0 +1,23 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#abc{
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+#abc img{
+	margin-left: 40px;
+	margin-right:40px;
+	height: 300px;
+	width: 700px;
+}
+
+#abc h4,span{
+	margin-left: 100px;
+	margin-right: 600px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
